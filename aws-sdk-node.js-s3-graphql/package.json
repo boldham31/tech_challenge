@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon ./src/start/index.js",
-    "start": "node ./src/final/index.js"
+    "start": "node ./src/start/index.js"
   },
   "repository": {
     "type": "git",
